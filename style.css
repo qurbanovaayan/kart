@@ -27,6 +27,7 @@
   border-radius: 12px;
 }
 .card h3{
+  text-shadow: 2px 2px 5px rgb(85, 232, 225);
   font-size: 25px;
   font-weight: 600;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
